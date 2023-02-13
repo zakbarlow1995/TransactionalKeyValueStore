@@ -1,3 +1,3 @@
-#A Transactional Key Value Store in SwiftUI
+## A Transactional Key Value Store in SwiftUI
 
-[Simulator Screen Recording](./screen_recording.gif)
+![Simulator Screen Recording](./screen_recording.gif)
